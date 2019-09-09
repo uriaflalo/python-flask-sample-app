@@ -12,6 +12,7 @@ RUN flask initdb
 
 # Unit tests
 # python setup.py test
+# making changes
 
 EXPOSE 5000
 
